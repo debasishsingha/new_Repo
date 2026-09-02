@@ -1,13 +1,30 @@
-Add below points to my resume to show that 30% of my work is contributed towards project management and 70% as a Team Lead. Build my resume in such a manner that I even get selected for a project management role:
-
-Managed a Team for 2 vast mainframe modernization projects for development,     modernization and deployment, and hyper care. · Innovated Migration process from mainframe to Azure Cloud. · Cross functional manager – Support for tracks outside project team (within COE) in sharing the Repository maintenance ideations. · ·  · Handled internal and external project audits. · Trained many resources and made them capable of being in mainframe, modernization-based projects. · Critical Issue Support – Managed Business financial impact critical tickets, communication. · Good Analytical Decision Making, focus on effective communication, Effective Delegation, Great adaptability
-
-With 15+ years in the IT industry, I bring a wealth of experience in Project and
-Service Delivery Management, managing complex, large-scale global engagements
-across multiple vendors, geographies, and delivery centers. I have strong
-expertise in Managing IT Service Delivery, ensuring SLA compliance, and driving
-customer satisfaction. I have a proven track record of successfully leading
-large-scale programs and collaborating seamlessly across client, third-party,
-and development teams to achieve program objectives and improve service
-efficiency. I have expertise in leading and managing, Problem Management
-and Automation initiatives leading to higher customer satisfaction.
+for AEP Client: Role Summary
+The z/OS Connect API Engineer is responsible for modernizing mainframe services through API enablement using IBM z/OS Connect. This role bridges traditional CICS/COBOL systems with modern API and cloud-native architectures while enabling secure, scalable, and reusable integration capabilities.
+Key Responsibilities
+Develop REST APIs using IBM z/OS Connect.
+Expose CICS and DB2 transactions through modern API contracts.
+Build and maintain API service definitions, mappings, and YAML configurations.
+Develop OpenAPI specifications aligned with enterprise standards.
+Configure and support JWT, OAuth2, OIDC, RACF, and certificate-based authentication.
+Implement CI/CD deployment pipelines using GitHub Actions and Gradle.
+Support integration with APIM as the enterprise API gateway.
+Troubleshoot performance, security, and connectivity issues.
+Develop onboarding templates and reusable API accelerators.
+Participate in mainframe modernization initiatives and Shadow Service migration efforts.
+Required Skills
+IBM z/OS Connect
+REST APIs
+OpenAPI
+JSON/XML
+CICS
+COBOL
+DB2
+RACF
+GitHub
+CI/CD
+Preferred Skills
+APIM
+Java
+Spring Boot
+OAuth2/OIDC
+Mainframe modernization programs
