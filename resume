@@ -1,74 +1,71 @@
-JD is  : 
+**Sr DevOps**
 
+We are seeking a Senior DevOps Engineer for our team to ensure that we continue to provide all patients with high quality, efficient care. Did you get into our industry for these reasons? We are an amazing team that works hard to support each other and are seeking a phenomenal addition like you who feels patient care is as meaningful as we do. We want you to apply!
 
+**Job Summary and Qualifications**
 
- Role Overview
+The DevOps Engineer delivers on strategic commitments from start to finish for all aspects of the Clinical Services Group organization within ITG. This position is responsible for supporting day-to-day operation of  critical infrastructure that allows our providers to deliver the best care possible to patients across the enterprise. An ideal candidate can quickly learn and make use of existing solutions as well as research and implement new technologies based on identified areas for improvement. They understand the services provided while understanding the direction of the Clinical Services Group. Additionally, they can develop strong relationships throughout the organization to assist in accomplishing its goals for the company.
 
+Previous job titles like SRE, DevOps Engineer, or Software Engineer might make you a good fit for this position.
 
+The DevOps Engineer works with development teams to support current environments, infrastructure automation, and software deployment. They will provide problem resolutions for systems as needed.
 
-Seeking a hands-on **Onshore Data Engineering Lead** with strong expertise in **SQL, Databricks, PySpark, and Power BI** to lead the development, support, and enhancement of enterprise data platforms. The role requires direct interaction with client stakeholders and coordination with offshore teams to deliver scalable, reliable, and high-quality data solutions.
+In addition the candidate should possess  analysis and design ability, creativity for problem solving, troubleshooting and innovation ability; knowledge of the business implications of technical approaches, directions, and solutions; ability to innovate in complex technical areas, ability to achieve results, project planning/coordination skills, and strong communication skills.
 
+**GENERAL RESPONSIBILITIES**
 
+Responsibilities:
 
-### Key Responsibilities
+- Build tools, automations, and infrastructure that enable teams that rely on SysOps to be successful with minimal interaction and manual intervention from team members
+- Write code to automate operations in Python and Ansible
+- Run our infrastructure with Ansible , Terraform, Python, PowerShell, Bash, etc. in a hybrid public cloud (Azure and GCP) and on-premises environments.
+- Design and implement custom 24x7 monitoring and alerting solutions
+- Research, investigate, and implement new technologies
+- Build monitoring that alerts of symptoms rather than on outages to stop issues before they happen
+- Be on an on-call rotation to respond to incidents that impact critical processes that may impact patient care or financials
 
+ 
 
+Desired Qualifications, Skills and Experience:
 
-- Production/Application Support
-- P1/P2 Incident Management
-- RCA ownership
-- Client & Stakeholder Management
-- Onsite-Offshore Coordination
-- Monitoring & Operational Ownership
-- Problem & Change Management
+•                          ***1 to 3 years professional experience with Linux and Windows administration and management.***
 
+•                          ***Have strong programming skills, ideally with a software engineering background using languages like Python, C#, Go, or Java.***
 
+•                          ***Experience with scripting languages like Bash/Shell and PowerShell a plus.***
 
-### Required Skills
+•                          ***Experience with relational database systems (MSSQL, MySQL, etc.)***
 
+•                          ***Experience with web server installation, configuration, and administration (Apache, Nginx, Tomcat, IIS)***
 
+•                          ***Experience implementing, configuring, and making use of monitoring tools (Dynatrace, Splunk, Datadog, ELK or LGTM stack, etc.)***
 
-- Expert-level **SQL** (query optimization, data modeling, performance tuning).
-- Strong hands-on experience with **Databricks (GCP preferred; non-Azure Databricks required)**.
-- Strong **PySpark** development experience.
-- Strong **Power BI** expertise (DAX, dashboards, data modeling, reporting).
-- Experience building and supporting large-scale ETL/ELT pipelines and enterprise data platforms.
-- Experience with production support, troubleshooting, and root cause analysis.
-- Excellent client-facing communication and stakeholder management skills.
+•                          ***Experience designing, implementing, and managing configuration management tools like Ansible or Chef.***
 
+•                          ***Experience using Git for maintaining code, particularly in collaboration with a team of engineers.***
 
+•                          ***Experience with build tools and CI/CD like GitHub Actions, GitLab CI/CD, or Jenkins.***
 
-### Nice to Have
+•                          ***Understand the full stack and is capable of trouble ~~~~ shooting issues at every layer.***
 
+•                          ***Prioritize the process of documentation.***
 
+•                          ***Excellent communication skills, both written and verbal***
 
-- **Google BigQuery**
-- Python
-- Delta Lake
-- Data Lakehouse Architecture
-- CI/CD and DataOps practices
+•                          Ability to understand and analyze complex business and technical problems
 
+•                          Ability to work in a collaborative environment with multiple teams
 
+•                          Desire to be challenged and enjoy working in high pressure situations
 
-### Experience
+•                          Understanding the importance of using the right tool for the job
 
+•                          Experience with application performance testing and production simulation preferred
 
+•                          Understands operational analytics processes and can interpret data trends to identify opportunities for improvement
 
-- 8+ years of IT experience.
-- 5+ years in Data Engineering and Analytics.
-- Experience working in onsite-offshore delivery models.
+•                          Experience with ITIL concepts for best practice implementations of change management, continual service improvement, problem management, business continuity, and incident management preferred
 
+•                          Experience with high-availability infrastructure and application design and disaster recovery techniques
 
-
-### Ideal Candidate
-
-
-
-- Strong technical leader who can bridge business and technology.
-- Comfortable engaging with client stakeholders and driving offshore teams.
-- Focused on business outcomes, operational excellence, and continuous improvement.
-- Takes end-to-end ownership of delivery, stability, and value realization.
-
-
-
-**Key Differentiator:** Ability to own the full lifecycle—solution design, development, production support, stakeholder communication, offshore coordination, RCA, and continuous improvement.
+ **~~~~** 
